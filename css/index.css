@@ -1,0 +1,39 @@
+#pr-img{
+    border-radius: 50%;
+    display: block;
+    object-fit: cover;
+	margin: 16px auto;
+	height: 180px;
+    width: 180px;
+}
+.left-p{
+    margin: 15px auto;
+    text-align: center;
+}
+#no-link{
+    text-decoration: none;
+}
+
+#follow-me{
+    display: block;
+    width: 40%;
+    text-decoration: none;
+    border: 1px solid #2F80ED;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+.f-f{
+    display: inline-block;
+}
+#f-f-p{
+    width: 35%;
+    margin: 20px auto;
+}
+
+#name{
+    font-weight: bolder;
+    font-size: 20px;
+    color: #2F80ED;
+}
